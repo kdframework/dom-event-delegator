@@ -1,6 +1,6 @@
 {
   "name": "kdf-dom-event-delegator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Small package that forwards DOM events to KDEventEmitter instances.",
   "main": "lib/index.js",
   "repository": {
